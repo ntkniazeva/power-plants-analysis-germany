@@ -16,11 +16,21 @@ https://data.open-power-system-data.org/conventional_power_plants/
 
 ![barchart](https://github.com/user-attachments/assets/843c8d34-f6d1-40db-863d-327352b105fe)
 
-## Files
-analysis.py — main code  
-insights.txt — conclusions  
-barchart.jpg — visualization  
-requirements.txt — python libraries
+## Project structure
+power-plants-analysis-germany/
+│
+├── data/
+│ └── power_plants_germany.csv
+│
+├── src/
+│ └── analysis.py
+│
+├── outputs/
+│ └── barchart.jpg
+│
+├── insights.txt
+├── README.md
+└── requirements.txt
 
 ## Author
 Natalia Kniazeva
