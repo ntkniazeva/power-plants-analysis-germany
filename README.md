@@ -20,6 +20,7 @@ https://data.open-power-system-data.org/conventional_power_plants/
 analysis.py — main code  
 insights.txt — conclusions  
 barchart.jpg — visualization  
+requirements.txt — python libraries
 
 ## Author
 Natalia Kniazeva
